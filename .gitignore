@@ -2,4 +2,4 @@
 target/
 dbt_packages/
 logs/
-models/assets
+models/assets/input_schema.png
