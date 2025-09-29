@@ -40,6 +40,6 @@ Once all ready - among several other technical topics, the following features wi
     • dbt Seeds
     • Data Visualization (Preset)
     
-![Lineage of Project](assets/models/Lineage_of_project.png)
+![Lineage of Project](models/assets/Lineage_of_project.png)
 
 Course website: https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/?referralCode=659B6722C93EF4096D11
